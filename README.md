@@ -5,7 +5,5 @@
 - 💬 Ask me about Front-End Engneering and any teck related staff
 - 📫 How to reach me: [Twitter - @Noddyboi](https://twitter.com/Noddyboi1)
 - ⚡ Fun fact: The first programmer was the daughter of a mad poet
-- 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DenisOuma&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DenisOuma&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img align = "left" width = "47%" src = "https://github-readme-stats.vercel.app/api?username=DenisOuma&show_icons=true&theme=radical"/>
+<img align = "left" width = "47%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=DenisOuma&layout=compact"/>
