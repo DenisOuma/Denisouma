@@ -13,10 +13,9 @@ skills and expand technical knowledge.
 - ⚡ Fun fact: The first programmer was the daughter of a mad poet
 
 <img align = "left" width = "48%" src = "http://github-readme-streak-stats.herokuapp.com/?user=DenisOuma&theme=radical"/>
-<img align = "left" width = "48%" src = "https://github-readme-stats.vercel.app/api?username=DenisOuma&show_icons=true&theme=radical"/>
+<img align = "rigt" width = "48%" src = "https://github-readme-stats.vercel.app/api?username=DenisOuma&show_icons=true&theme=radical"/>
 
-### 👨‍💻👨
-<hr />
+
 <img align = "left" width = "47%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=DenisOuma&layout=compact"/>
 <img align = "left" width = "47%" src = "https://www.codewars.com/users/DenisOuma/badges/large"/>
 
