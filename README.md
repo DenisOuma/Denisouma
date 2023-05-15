@@ -1,5 +1,5 @@
 ### Hello👋, Thank you for visiting my github profile, I'm Denis Ouma. 
-📫 [Twitter](https://twitter.com/Noddyboi1) | [LinkedIn](https://www.linkedin.com/in/denisouma/)
+📫 [MyPortfolio](https://denisouma.github.io/myportfolio/)  | [Twitter](https://twitter.com/Noddyboi1) | [LinkedIn](https://www.linkedin.com/in/denisouma/)
 ![Viewers](https://gpvc.arturio.dev/DenisOuma)
 <hr />
 I am motivated and dependable Front-End developer with comprehensive skills in
